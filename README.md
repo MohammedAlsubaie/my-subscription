@@ -9,9 +9,9 @@ My Subscription is a student project that keeps all of a person's subscriptions 
 
 ## Screenshots
 
-| Home | Add / Edit |
-|------|------------|
-| ![Home](screenshots/home.png) | ![Edit](screenshots/edit.png) |
+| Login | Home | Add / Edit |
+|-------|------|------------|
+| <img src="screenshots/login.png" width="240"> | <img src="screenshots/home.png" width="240"> | <img src="screenshots/edit.png" width="240"> |
 
 ## Problem Statement
 Users may forget their subscriptions, renewal dates, or how much they spend.
